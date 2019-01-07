@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView"></declare-styleable>
+    <declare-styleable name="CustomView_square_color"></declare-styleable>
+    <declare-styleable name="CustomView_square_size"></declare-styleable>
+</resources>
